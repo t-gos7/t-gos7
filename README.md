@@ -4,10 +4,7 @@
 **t-gos7/t-gos7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🌱 I’m currently learning how to be an awesome-er engineer 
-- 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about any technical problem, I will try my best to answer
-- 📫 How to reach me: tarit.goswami.2@gmail.com
-<!--
-- ⚡ Fun fact: 
--->
+- 🌱 Works at Amazon Web Services as Cloud Engineer - I (Security and Cryptography)
+- 📫 How to reach me: https://www.linkedin.com/in/tarit-goswami-096578132/
+
+The above information was last updated on: 11th Jan 2023
